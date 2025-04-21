@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/admin"
+to = "/static/admin"
+status = 200
+force = true
